@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratheesh J K</h1>
+<h1 align="center">Hi , I'm Pratheesh J K</h1>
 <h3 align="center">Computer Science Engineering Student | UI/UX Designer | AI Enthusiast | Aspiring Software Developer</h3>
 
 <p align="center">
