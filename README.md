@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pratheesh J.K 👋</h1>
-<h3 align="center">Computer Science Engineering Student | UI/UX Enthusiast | AI-Driven Builder</h3>
+<h1 align="center">Hi, I'm Pratheesh J.K </h1>
+<h3 align="center">Computer Science Engineering Student | AI & Data Science Enthusiast | Aspiring Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratheesh-j-k-163140340/">
@@ -14,7 +14,7 @@
 
 ### 🙋‍♂️ Who Am I?
 
-I'm Pratheesh, a 2nd-year **B.E. Computer Science & Engineering** student at Sri Sairam Engineering College (Class of 2028). I'm passionate about **UI/UX design, web technologies, and AI-assisted development**, and I'm currently looking for internship opportunities where I can apply what I've learned to real-world projects and keep growing as a developer.
+I'm Pratheesh, a 2nd-year **B.E. Computer Science & Engineering** student at Sri Sairam Engineering College (Class of 2028), with a growing focus on **Artificial Intelligence and Data Science**. I'm passionate about AI-driven problem solving, web technologies, and modern development workflows, and I'm currently looking for internship opportunities where I can apply what I've learned to real-world projects and keep growing as a developer.
 
 - 🎓 Studying Computer Science & Engineering
 - 🎨 Exploring UI/UX design fundamentals and prototyping
@@ -27,8 +27,8 @@ I'm Pratheesh, a 2nd-year **B.E. Computer Science & Engineering** student at Sri
 
 - Designing UI/UX prototypes and wireframes in **Figma**, focused on responsive, user-centered layouts
 - Learning AI-assisted development workflows using **GitHub Copilot, ChatGPT, Gemini, and Claude**
+- Building **Anjaro** — a web solution for smart Public Distribution System (PDS) delivery, focused on making ration distribution more efficient and transparent
 - Building small software and database projects to strengthen my fundamentals
-- Working towards GUVI and NPTEL certifications to deepen my technical knowledge
 
 ---
 
