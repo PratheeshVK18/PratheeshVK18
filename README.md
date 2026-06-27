@@ -1,146 +1,93 @@
-<h1 align="center">Hi , I'm Pratheesh J K</h1>
-<h3 align="center">Computer Science Engineering Student | UI/UX Designer | AI Enthusiast | Aspiring Software Developer</h3>
+<h1 align="center">Hi, I'm Pratheesh J.K 👋</h1>
+<h3 align="center">Computer Science Engineering Student | UI/UX Enthusiast | AI-Driven Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/PratheeshVK18">
-    <img src="https://komarev.com/ghpvc/?username=PratheeshVK18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/pratheesh-j-k-163140340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratheeshvk18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🙋‍♂️ Who Am I?
 
-I'm a **Computer Science Engineering student** at **Sri Sairam Engineering College** (Class of 2028) with a passion for creating intuitive digital experiences and solving real-world problems through technology.
+I'm Pratheesh, a 2nd-year **B.E. Computer Science & Engineering** student at Sri Sairam Engineering College (Class of 2028). I'm passionate about **UI/UX design, web technologies, and AI-assisted development**, and I'm currently looking for internship opportunities where I can apply what I've learned to real-world projects and keep growing as a developer.
 
-I enjoy exploring **UI/UX Design, Artificial Intelligence, Web Development, and Software Development** while continuously learning new technologies and contributing to meaningful projects.
-
----
-
-## 🚀 Currently Working On
-
-- 🎨 Designing modern UI/UX prototypes using **Figma**
-- 🤖 Building AI-assisted applications with **ChatGPT, Claude, Gemini & GitHub Copilot**
-- 💻 Developing academic and personal software projects
-- 🌱 Strengthening my skills in **Java, Python, SQL, and Web Development**
-- 📚 Preparing for internships and open-source contributions
+- 🎓 Studying Computer Science & Engineering
+- 🎨 Exploring UI/UX design fundamentals and prototyping
+- 🧠 Curious about how AI tools can speed up and improve software development
+- 🏆 Participated in the **HCL GUVI India AI Impact Buildathon 2026**, contributing to AI-driven solutions for real-world challenges
 
 ---
 
-## 🛠️ Tech Stack
+### 🚧 What I'm Currently Working On
 
-### 💻 Languages
-- Java
-- Python
-- C
-- C++
-- SQL
-
-### 🎨 Design
-- Figma
-
-### ⚡ Development
-- Visual Studio Code
-- Git
-- GitHub
-
-### 🤖 AI Tools
-- ChatGPT
-- GitHub Copilot
-- Claude
-- Gemini
-
-### 🗄️ Databases
-- MongoDB
-- MS SQL Server
+- Designing UI/UX prototypes and wireframes in **Figma**, focused on responsive, user-centered layouts
+- Learning AI-assisted development workflows using **GitHub Copilot, ChatGPT, Gemini, and Claude**
+- Building small software and database projects to strengthen my fundamentals
+- Working towards GUVI and NPTEL certifications to deepen my technical knowledge
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Tools & Technologies I Use
 
-- 🥇 Ranked in the **Top 2%** at the **HCL GUVI AI Buildathon**
-- 🎓 Earned multiple **GUVI** and **NPTEL** certifications
-- 🤝 Active **NSS Volunteer**, contributing to social and environmental initiatives
+**Design & Development**
 
----
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 🌟 Interests
+**AI & Productivity**
 
-- UI/UX Design
-- Artificial Intelligence
-- Web Development
-- Software Development
-- Open Source
-- Technology Trends
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
----
+**Databases**
 
-## 📫 Connect With Me
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-📧 **Email:**  
-**pratheeshvk18@gmail.com**
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/pratheesh-j-k-163140340
-
-🐙 **GitHub:**  
-https://github.com/PratheeshVK18
+**Additional Skills:** UI/UX Design Fundamentals · Prompt Engineering · Basic Web Development · Problem Solving · Team Collaboration
 
 ---
 
-<h3 align="center">💡 "Learning, Building, and Growing—One Project at a Time."</h3>
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratheeshVK18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PratheeshVK18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheeshVK18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-## 💻 Most Used Languages
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheeshVK18&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-## 🔥 GitHub Streak
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PratheeshVK18&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;UI%2FUX+Designer;AI+Enthusiast;Aspiring+Software+Developer;Always+Learning+New+Technologies"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,figma,vscode,git,github,mongodb,mysql&theme=dark"/>
-</p>
-## 🌐 Connect With Me
+### 💬 What Drives Me
+
+> *"Self-belief and hard work will always earn you success."*
+> — **Virat Kohli**
+
+That mindset is what keeps me learning, building, and improving every day — one project at a time.
+
+---
+
+### 📫 How to Reach Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pratheesh-j-k-163140340">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pratheeshvk18@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/PratheeshVK18">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://www.linkedin.com/in/pratheesh-j-k-163140340/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratheeshvk18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pratheeshvk18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PratheeshVK18&label=Profile+Views&color=blue&style=for-the-badge"/>
-</p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PratheeshVK18&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-## 📈 Contribution Graph
+📞 +91 94883 45907
+🔗 GitHub: [@PratheeshVK18](https://github.com/PratheeshVK18)
 
-[![Pratheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PratheeshVK18&theme=tokyo-night)](https://github.com/PratheeshVK18)
-## 🚀 Featured Projects
+---
 
-- 📦 **Anjaro – PDS on Wheels**
-- 🎨 UI/UX Design Portfolio
-- 🤖 AI Buildathon Projects
-- 🌐 Web Development Projects## 💬 Quote
-
-> "Self-belief and hard work will always earn you success."  
+<p align="center"><i>Open to internship opportunities — let's build something great together! 🚀</i></p>
