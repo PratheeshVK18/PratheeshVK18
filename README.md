@@ -18,7 +18,7 @@
 
 ### About Me
 
-2nd-year B.E. Computer Science Engineering student at Sri Sairam Engineering College (Class of 2028), with a growing focus on AI & Data Science and a practical interest in UI/UX design and web development. Currently seeking internship opportunities to apply my skills to real-world projects.
+2nd-year B.E. Computer Science Engineering student at Sri Sairam Engineering College (Class of 2028), with a growing focus on AI & Data Science and a practical interest in UI/UX design and web development.
 
 ### Currently Working On
 
@@ -58,3 +58,5 @@ Also exploring AI-assisted development workflows (GitHub Copilot, ChatGPT, Gemin
 </p>
 
 <p align="center"><em>Open to internship opportunities — let's build something great together.</em></p>
+
+> "Self-belief and hard work will always earn you success." — Virat Kohli
